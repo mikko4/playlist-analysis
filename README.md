@@ -1,4 +1,4 @@
-# playlist-builder
+# playlist-analysis
 
 link playlist on spotify, get back analysis of playlist  
 &emsp;-> metrics on danceability, energy, etc  
