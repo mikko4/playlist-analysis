@@ -1,7 +1,8 @@
 # playlist-builder
 
-link playlist or song on spotify, build curated playlist of similar songs
--> adjust temp. to get more random songs
+link playlist on spotify, get back analysis of playlist
+-> metrics on danceability, energy, etc
+-> recommended songs to add
 
-generate cover art for your playlist
--> input playlist title, get back dall.e image cover
+generate custom cover art for playlist based on analysis or custom keywords
+-> dall.e
