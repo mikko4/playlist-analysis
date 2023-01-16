@@ -1,5 +1,4 @@
 import os
-from importlib.metadata import version
 
 import spotipy
 from dotenv import load_dotenv
